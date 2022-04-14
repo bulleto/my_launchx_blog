@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Miguel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://bulleto.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bulleto.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Título de tu blog post</title>
+      <link>https://bulleto.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bulleto.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Saludos de nuevo!
+Este es mi segundo post de mi travesía por Launch X, y he de admitir que estoy muy emocionado por todo lo que he aprendido y lo que proximamente aprenderé! Desde el Onboarding fue una experiencia diferente a otros cursos, ya que podia sentir que no solo estaba tomando clases, sino recibiendo consejos de gente que ya se a adentrado en el mundo laboral y es algo que personalmente valoro mucho y agradezco enormemente.</description>
+    </item>
+    
     <item>
       <title>Mis expectativas</title>
       <link>https://bulleto.github.io/my_launchx_blog/posts/intro/</link>
