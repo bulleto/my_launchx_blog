@@ -12,6 +12,7 @@ Para mi un desarrollador de software debe tener ciertas cualidades que hoy en di
 - Tambien es importante que sea creativo
 - De igual manera debe saber respetar las ideas de los demas 
 - Y finalmente y lo mas improtante es que siempre tiene que estar aprendiendo nuevas cosas
+
 Para mi esto es lo que hace a un desarrollador de software un profesional completo, ya que demuestra que es apasionado por su trabajo y disfruta de ello
 y tambien demuestra que valora el compañerismo y siempre estara abierto a nuevas opiniones e ideas.
 Eso es todo por hoy, nos vemos luego, adios!!
